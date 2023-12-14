@@ -10,7 +10,7 @@ app.config['CORS_HEADERS']="Content-Type"
 dataBase = mysql.connector.connect(
 host ="localhost",
 user ="root",
-passwd ="Jan0301A",
+passwd ="",
 database = "HMS_prj",
 connection_timeout = 500
 )
